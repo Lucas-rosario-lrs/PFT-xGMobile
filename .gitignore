@@ -1,0 +1,19 @@
+# Pastas de dependências 
+node_modules/
+vendor/
+
+# Arquivos de sistema e IDEs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente e senhas 
+.env
+*.pem
+*.key
+
+# Logs e arquivos temporários
+*.log
+dist/
+build/
